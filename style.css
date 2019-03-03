@@ -1,0 +1,16 @@
+body {
+  background-image: url(https://pbs.twimg.com/media/DpPXQYWXUAA2EOi.jpg);
+  background-size: cover;
+}
+
+.heart {
+  color: pink;
+  font-size: 20px;
+  position: absolute;
+}
+
+.stars {
+  position: absolute;
+  color: white;
+  font-size: 40px
+}
